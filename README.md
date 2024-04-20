@@ -1,3 +1,3 @@
-Function find factorial of any namber
+Function creating password of 8 symbols
 
-Функция находит факториал любого числа
+Функция создания пароля из 8 символов
