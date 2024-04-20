@@ -1,0 +1,12 @@
+{
+  "name": "8-numb_password",
+  "version": "1.0.0",
+  "description": "function create 8-number password",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "keywords": ["random password"],
+  "author": "Yulia Petrova",
+  "license": "ISC"
+}
